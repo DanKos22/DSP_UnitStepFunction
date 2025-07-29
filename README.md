@@ -1,0 +1,1 @@
+This project demonstrates how to generate and visualize the discrete-time unit step function using Python, NumPy, and Matplotlib. The code defines a function to compute the unit step for a given delay and plots it using stem plots.
